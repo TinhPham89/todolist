@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:title="QUÁ HẠN"
+        android:icon="@drawable/outline_history_24"
+        android:id="@+id/mnuPast"/>
+    <item android:title="Hôm nay"
+        android:icon="@drawable/outline_av_timer_24"
+        android:id="@+id/mnuToday"/>
+    <item android:title="Tương lai"
+        android:icon="@drawable/outline_schedule_24"
+        android:id="@+id/mnuTomorrow"/>
+</menu>

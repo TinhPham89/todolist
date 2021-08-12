@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Planning</string>
+    <string name="introduce0">nếu thời gian là thứ đáng giá nhất phí phạm thời gian hẳn phải là sự lãng phí ngông cuồng nhất</string>
+    <string name="introduce1">Việc lên kế hoạch mỗi ngày giúp ta có tiết kiệm thời gian mỗi ngày </string>
+    <string name="introduce2">Tiết kiệm thời gian để có thể những điều mình cảm thấy thú vị là điều tốt nhất</string>
+    <string name="get">Get Started</string>
+    <string name="list1">Quá hạn</string>
+    <string name="list2">Hôm nay</string>
+    <string name="list3">Ngày mai</string>
+    <string name="list4">Trong tuần này</string>
+    <string name="list5">Trong tháng này</string>
+    <string name="list6">Trong tháng tới</string>
+    <string name="suject">Chủ đề:</string>
+    <string name="plan">Kế hoạch:</string>
+    <string name="time">Thời gian:</string>
+    <string name="date">Ngày:</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item android:title="Trang Chính"
+            android:icon="@drawable/outline_home_24"
+            android:id="@+id/home"/>
+        <item android:title="Phân bổ kế hoạch"
+            android:icon="@drawable/outline_event_24"
+            android:id="@+id/planning"/>
+        <item android:title="Danh sách của bạn"
+            android:icon="@drawable/ic_baseline_list_24"
+            android:id="@+id/settings"/>
+        <item android:title="Kê hoạch đã hoàn thành"
+            android:icon="@drawable/outline_info_24"
+            android:id="@+id/info"/>
+
+    </group>
+
+</menu>
